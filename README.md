@@ -51,3 +51,6 @@
 3. A lot of compiler errors 
 
     - This is actually good, because its better to fix compile-time errors than to fix runtime errors (that's why Haskell is so strict)
+    
+
+### P/S: This is only my opinion, it may not necessarily fits your development, so contemplate at your own risk.
