@@ -43,7 +43,7 @@
 
 - Function should never modifies the input (unless you are very very very very very very very clear about what you do)
 
-        - You can convert them to for loop later if you are very sure that the micro-optimization will help to improve performance
+    - You can convert them to for loop later if you are very sure that the micro-optimization will help to improve performance
     
 
 ## Problems you might faced
