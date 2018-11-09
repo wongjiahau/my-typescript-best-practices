@@ -36,6 +36,12 @@
     - Use [spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
     - Use filter, map, reduce 
+    
+- Function should never modifies the input
+
+- Function should never modifies the input 
+
+- Function should never modifies the input (unless you are very very very very very very very clear about what you do)
 
         - You can convert them to for loop later if you are very sure that the micro-optimization will help to improve performance
     
